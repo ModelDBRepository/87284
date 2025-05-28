@@ -35,23 +35,23 @@ drag and drop the `mosinit.hoc` file onto the nrngui icon.
 Once the simulation is started click on a button to recreate a figure
 from the paper, e.g.:
 
-**Figure 1,2** generates Figure 1B and 2 simultaneously:
+**Figure 1,2** generates Figure 1B and 2 simultaneously:  
 (the simulation part is Figure 1B right hand side traces):
 ![Figure 1B right hand side](./fig1.jpg)
 
-**Figure 2:**
+**Figure 2:**  
 ![Figure 2](./fig2.jpg)
 
-**Figure 3 (example):**
+**Figure 3 (example):**  
 ![Figure 3](./fig3.jpg)
 
-**Figure 4:**
+**Figure 4:**  
 ![Figure 4](./fig4.jpg)
 
-**Figure 5:**
+**Figure 5:**  
 ![Figure 5](./fig5.jpg)
 
-**Figure 6b:**
+**Figure 6b:**  
 ![Figure 6b](./fig6b.jpg)
 
 Questions on how to use this model should be directed to tom.morse@yale.edu.
