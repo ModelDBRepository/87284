@@ -54,8 +54,7 @@ from the paper, e.g.:
 **Figure 6b:**
 ![Figure 6b](./fig6b.jpg)
 
-Questions on how to use this model should be directed to tom.morse @
-yale.edu.
+Questions on how to use this model should be directed to tom.morse@yale.edu.
 
 ## References
 
